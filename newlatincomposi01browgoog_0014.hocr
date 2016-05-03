@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./newlatincomposi01browgoog_0014.png"; bbox 0 0 735 1042; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 225 915 506 952">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 225 915 506 952">
+     <span class='ocr_line' id='line_1_1' title="bbox 334 915 394 927; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 334 915 394 927; x_wconf 58' lang='grc' dir='ltr'>ΟΑιιΑκ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 225 937 506 952; baseline -0.004 -2"><span class='ocrx_word' id='word_1_2' title='bbox 225 937 268 952; x_wconf 72' lang='lat' dir='ltr'><strong>(From</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 274 938 295 950; x_wconf 70' lang='lat' dir='ltr'>me</span> <span class='ocrx_word' id='word_1_4' title='bbox 301 939 331 950; x_wconf 74' lang='lat' dir='ltr'>bun</span> <span class='ocrx_word' id='word_1_5' title='bbox 336 939 349 950; x_wconf 72' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_6' title='bbox 355 939 377 950; x_wconf 73' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_7' title='bbox 383 938 431 950; x_wconf 70' lang='lat' dir='ltr'>uritish</span> <span class='ocrx_word' id='word_1_8' title='bbox 437 938 506 952; x_wconf 58' lang='lat' dir='ltr'>Muscam.)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
